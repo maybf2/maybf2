@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Mayra and I'm a web developer, from Argentina.</h1>
+<h2 align="left">Hi 👋! My name is Mayra and I'm a web developer, from Argentina.</h2>
 
 ###
 
@@ -8,13 +8,12 @@
 
 <br clear="both">
 
-
-
 ###
 
+ <img align="right" height="210" src="https://media.giphy.com/media/VDB85YZsrqMXx3c7DE/giphy.gif?cid=ecf05e47eb151qm0atg312rrme64mec8m5rjfom5zdcvhbiz&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+
 <div align="left">
-  <img align="right" height="210" src="https://media.giphy.com/media/VDB85YZsrqMXx3c7DE/giphy.gif?cid=ecf05e47eb151qm0atg312rrme64mec8m5rjfom5zdcvhbiz&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
-  <h2>Skills</h2>
+  <h3>Skills</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -31,7 +30,7 @@
 ###
 
 <div align="left">
-  <h2>Tools</h2>
+  <h3>Tools</h3>
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
