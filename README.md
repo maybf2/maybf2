@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Mayra and I'm a web developer, from Argentina.</h2>
+<h2 align="left">Hi 👋! My name is Mayra and I'm a web developer, from Argentina.</h2>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<img align="right" height="120" src="https://media.giphy.com/media/VDB85YZsrqMXx3c7DE/giphy.gif?cid=ecf05e47eb151qm0atg312rrme64mec8m5rjfom5zdcvhbiz&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+<img align="right" height="130" src="https://media.giphy.com/media/VDB85YZsrqMXx3c7DE/giphy.gif?cid=ecf05e47eb151qm0atg312rrme64mec8m5rjfom5zdcvhbiz&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
 
 ###
 
